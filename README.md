@@ -1,6 +1,7 @@
 # SDLC-Lifecycle-animation-
-# preview: ![Screenshot (3)](https://github.com/user-attachments/assets/c8b54cac-7cb2-43a9-b769-15dc189a16c8)
+# preview: 
 
+![Software-Developer-Life-Cycle1](https://github.com/user-attachments/assets/d094645f-3ef8-40d5-9382-275601b8ded3)
 
 #Need to Install 
 1. Framer motion 
